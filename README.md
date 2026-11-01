@@ -1,17 +1,22 @@
-<h1 align="center">Hi, I'm Laxminarayan Sahu 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI/ML Engineer · Full-Stack Developer · Privacy-Preserving AI Researcher</b><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Laxminarayan%20Sahu%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Privacy-Preserving%20AI%20Researcher&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Laxminarayan Sahu banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Privacy-Preserving+RAG+%40+IIT+Jodhpur;Benchmarking+Naive%2C+Advanced+%26+Corrective+RAG;LLMs+%E2%86%92+RAG+%E2%86%92+AI+Agents+%E2%86%92+Multi-Agent+Systems" alt="Typing animation" />
+
+<p>
   B.Tech Information Technology · NIT Karnataka (NITK) · 2023–2027<br/>
   Research Intern @ <a href="https://home.iitj.ac.in/~susilmohanty/spritlab/index.html">SPriT Lab, IIT Jodhpur</a> — Privacy-Preserving RAG
 </p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/laxminarayan-sahu-49294227b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-laxminarayansahu.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
   <a href="mailto:sahulucky2411@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.credly.com/users/laxminarayan-sahu.ea30b0f6"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
 </p>
+
+</div>
 
 ---
 
@@ -25,45 +30,62 @@
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔍 [RAG Showdown](https://github.com/LAXMINARAYAN24/RAG-Showdown)
-> `Python` `LangChain` `ChromaDB` `FastAPI` `OpenAI API`
+`Python` `LangChain` `ChromaDB` `FastAPI` `OpenAI API`
 
 Head-to-head comparison of RAG pipelines with an LLM-as-judge evaluation harness. Benchmarks chunking strategies, cross-encoder reranking, and prompt engineering across 5+ retrieval quality metrics.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎙️ [VoiceViz](https://github.com/LAXMINARAYAN24/VoiceViz)
-> `React` `TypeScript` `FastAPI` `Supabase`
+`React` `TypeScript` `FastAPI` `Supabase`
 
 Full-stack SQL analytics platform with a voice-to-SQL pipeline — ask databases questions in plain English or by voice. JWT auth, multi-user workspace management, interactive schema exploration dashboards.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 [Steg-Drop](https://github.com/LAXMINARAYAN24/Steg-Drop)
-> `FastAPI` `OpenCV` `NumPy`
+`FastAPI` `OpenCV` `NumPy`
 
 Zero-knowledge steganography service. Hides text or files inside images using edge-adaptive LSB embedding (Canny detection) and AES-256-GCM encryption with PBKDF2-HMAC-SHA256 key derivation (100,000 iterations). Zero disk writes — everything in RAM.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏥 [Medical Image Denoising Pipeline](https://github.com/LAXMINARAYAN24/MedicalImageDenoisingPipeline)
-> `PyTorch` `U-Net` `CNN`
+`PyTorch` `U-Net` `CNN`
 
 End-to-end deep learning pipeline for denoising medical images and classifying them as Normal/Abnormal. U-Net style AutoEncoder for denoising + CNN classifier.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏢 [AssetFlow — Hackathon ODOO](https://github.com/LAXMINARAYAN24/HACKATHON-ODOO)
-> `Node.js` `React` `MongoDB` `Express` `TailwindCSS`
+`Node.js` `React` `MongoDB` `Express` `TailwindCSS`
 
 Enterprise SaaS application for end-to-end asset, resource, booking, maintenance, and audit management. Built during hackathon.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 [AI Job Tracker](https://github.com/CodePokeX/JobTrack-AI)
-> `Node.js` `Express.js` `MongoDB` `EJS` `Bcrypt`
+`Node.js` `Express.js` `MongoDB` `EJS` `Bcrypt`
 
 AI-powered career portal integrating Google Gemini API for resume keyword optimization and ATS match improvement. Automates job application tracking.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,6 +101,12 @@ AI-powered career portal integrating Google Gemini API for resume keyword optimi
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,tailwind,fastapi,nodejs,express,postgres,mongodb,supabase,pytorch,opencv,git,github,linux,vscode,jupyter&theme=dark" alt="Tech stack icons" />
+</div>
+
+<br/>
 
 **AI/ML & LLMs**
 ```
@@ -147,9 +175,18 @@ Git · GitHub · Linux · VS Code · Jupyter Notebook
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAXMINARAYAN24&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
 </p>
 
+<!--
+OPTIONAL 3D contribution graph:
+1. Add the workflow from https://github.com/yoshi389111/github-profile-3d-contrib to this repo and run it once.
+2. Uncomment the line below.
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+-->
+
 ---
 
-<p align="center">
+<div align="center">
   <i>Open to AI/ML Engineering, Research, and Full-Stack internship opportunities</i><br/>
   <a href="mailto:sahulucky2411@gmail.com">sahulucky2411@gmail.com</a>
-</p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
+</div>
