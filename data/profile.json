@@ -1,0 +1,86 @@
+{
+  "login": "LAXMINARAYAN24",
+  "name": ["Laxminarayan", "Sahu"],
+  "status": "Available for internships & collaborations",
+  "tagline": "NIT Karnataka B.Tech student building retrieval-augmented AI and full-stack software.",
+  "portrait": "assets/portrait.jpg",
+  "tiles": [
+    {
+      "label": "Portfolio",
+      "title": "Selected work",
+      "sub": "Projects, journey and toolkit",
+      "icon": "globe",
+      "url": "https://portfolio-laxminarayansahu.netlify.app"
+    },
+    {
+      "label": "LinkedIn",
+      "title": "Let's connect",
+      "sub": "laxminarayan-sahu",
+      "icon": "linkedin",
+      "url": "https://linkedin.com/in/laxminarayan-sahu-49294227b"
+    },
+    {
+      "label": "Résumé",
+      "title": "Download PDF",
+      "sub": "Experience and projects",
+      "icon": "file",
+      "url": "https://portfolio-laxminarayansahu.netlify.app/resume.pdf"
+    }
+  ],
+  "repos": [
+    {
+      "slug": "omniac-rag",
+      "name": "Omniac RAG",
+      "tag": "AI",
+      "period": "2026",
+      "blurb": "A local AI assistant combining hybrid retrieval, claim verification, and citation-audited answers.",
+      "stack": ["Python", "React", "Node.js", "Ollama", "BM25", "RAG"],
+      "url": "https://github.com/LAXMINARAYAN24/OmaniacRAG"
+    },
+    {
+      "slug": "rag-showdown",
+      "name": "RAG Showdown",
+      "tag": "AI",
+      "period": "",
+      "blurb": "Head-to-head benchmark of Naive, Advanced, and Corrective RAG pipelines with an LLM-as-judge evaluation harness.",
+      "stack": ["Python", "LangChain", "ChromaDB", "FastAPI", "OpenAI API"],
+      "url": "https://github.com/LAXMINARAYAN24/RAG-Showdown"
+    },
+    {
+      "slug": "voiceviz",
+      "name": "VoiceViz",
+      "tag": "AI",
+      "period": "Feb – Mar 2026",
+      "blurb": "AI SQL workspace with voice-to-query input, schema exploration, secure multi-user auth, and interactive chatbot visualizations.",
+      "stack": ["React", "TypeScript", "Vite", "Tailwind", "Supabase", "Web Speech API"],
+      "url": "https://github.com/LAXMINARAYAN24/VoiceViz"
+    },
+    {
+      "slug": "migration-risk-analytics",
+      "name": "Migration Risk Analytics",
+      "tag": "AI",
+      "period": "Aug – Sep 2026",
+      "blurb": "Population migration analytics connecting Census data, machine learning, and an interactive React dashboard.",
+      "stack": ["Python", "pandas", "scikit-learn", "React", "Matplotlib"],
+      "url": "https://github.com/LAXMINARAYAN24/IBM-SkillsBuild-Migration-Risk-Analytics"
+    },
+    {
+      "slug": "steg-drop",
+      "name": "Steg-Drop",
+      "tag": "Security",
+      "period": "Mar – Apr 2026",
+      "blurb": "In-memory steganography tool hiding data in textured regions via Canny edges, secured with AES-256-GCM and PBKDF2.",
+      "stack": ["Python", "FastAPI", "OpenCV", "pycryptodome"],
+      "url": "https://github.com/LAXMINARAYAN24/Steg-Drop"
+    },
+    {
+      "slug": "medical-image-denoising",
+      "name": "Medical Image Denoising",
+      "tag": "Vision",
+      "period": "2026",
+      "blurb": "A PyTorch pipeline pairing a U-Net-style denoising autoencoder with a CNN classifier.",
+      "stack": ["Python", "PyTorch", "OpenCV", "NumPy", "Matplotlib"],
+      "url": "https://github.com/LAXMINARAYAN24/MedicalImageDenoisingPipeline"
+    }
+  ]
+}
